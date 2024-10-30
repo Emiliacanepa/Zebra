@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#Titulo{
+    text-align: center;
+    font-family: didot;
+}
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    height: 60vh;
+    width: 33vw;
+}
+
+.card p {
+    color: #555;
+}
+
+img{
+    object-fit: cover;
+    max-height: 50vh;
+}
+
+.cubo{
+    text-align: center;
+    font-family: didot;
+}
+
+#icons{
+    color: ddcbbe;
+}
+
+footer{
+    font-family: didot;
+    background-color: rgb(228, 228, 226);
+    color: rgb(159, 159, 158);
+    font-weight: bold;
+}
+
+#p{
+    text-align: center;
+}
+
+#conexion{
+    text-decoration: none;
+}

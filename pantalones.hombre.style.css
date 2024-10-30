@@ -1,0 +1,54 @@
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    height: 60vh;
+    width: 23vw;
+    font-family: didot;
+}
+
+img{
+    object-fit: cover;
+    max-height: 30vh;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.talle{
+    width: 70px;
+}
+
+.label{
+    text-align: left;
+}
+
+#Titulo{
+    text-align: center;
+    font-family: didot;
+}
+
+.card-link{
+    color: rgb(215, 215, 200);
+}
+
+footer{
+    font-family: didot;
+    background-color: rgb(228, 228, 226);
+    color: rgb(159, 159, 158);
+    font-weight: bold;
+}
+
+#p{
+    text-align: center;
+}
